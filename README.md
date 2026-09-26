@@ -12,10 +12,10 @@
 
 ## 相关凭证与资料
 
-### 1. 
+###
 https://github.com/Error403xa/FuckHMNL/blob/main/rcst20.json
 
-### 2. 
+###
 ![HMNL.png](https://github.com/Error403xa/FuckHMNL/raw/main/HMNL.png)
 
 ---
